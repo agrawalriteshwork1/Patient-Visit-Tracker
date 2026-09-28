@@ -49,7 +49,7 @@ npm --version
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/agrawalriteshwork1/Patient-Visit-Tracker.git
 cd patient-visit-tracker
 ```
 
